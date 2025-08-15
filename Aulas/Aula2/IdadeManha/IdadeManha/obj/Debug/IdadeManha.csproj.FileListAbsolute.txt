@@ -1,0 +1,14 @@
+C:\Users\labs\Documents\Amanda\IdadeManha\IdadeManha\bin\Debug\IdadeManha.exe.config
+C:\Users\labs\Documents\Amanda\IdadeManha\IdadeManha\bin\Debug\IdadeManha.exe
+C:\Users\labs\Documents\Amanda\IdadeManha\IdadeManha\bin\Debug\IdadeManha.pdb
+C:\Users\labs\Documents\Amanda\IdadeManha\IdadeManha\obj\Debug\IdadeManha.csprojAssemblyReference.cache
+C:\Users\labs\Documents\Amanda\IdadeManha\IdadeManha\obj\Debug\IdadeManha.csproj.CoreCompileInputs.cache
+C:\Users\labs\Documents\Amanda\IdadeManha\IdadeManha\obj\Debug\IdadeManha.exe
+C:\Users\labs\Documents\Amanda\IdadeManha\IdadeManha\obj\Debug\IdadeManha.pdb
+C:\Users\labs\Documents\Amanda\Aulas\Aula2\IdadeManha\IdadeManha\bin\Debug\IdadeManha.exe.config
+C:\Users\labs\Documents\Amanda\Aulas\Aula2\IdadeManha\IdadeManha\bin\Debug\IdadeManha.exe
+C:\Users\labs\Documents\Amanda\Aulas\Aula2\IdadeManha\IdadeManha\bin\Debug\IdadeManha.pdb
+C:\Users\labs\Documents\Amanda\Aulas\Aula2\IdadeManha\IdadeManha\obj\Debug\IdadeManha.csprojAssemblyReference.cache
+C:\Users\labs\Documents\Amanda\Aulas\Aula2\IdadeManha\IdadeManha\obj\Debug\IdadeManha.csproj.CoreCompileInputs.cache
+C:\Users\labs\Documents\Amanda\Aulas\Aula2\IdadeManha\IdadeManha\obj\Debug\IdadeManha.exe
+C:\Users\labs\Documents\Amanda\Aulas\Aula2\IdadeManha\IdadeManha\obj\Debug\IdadeManha.pdb
