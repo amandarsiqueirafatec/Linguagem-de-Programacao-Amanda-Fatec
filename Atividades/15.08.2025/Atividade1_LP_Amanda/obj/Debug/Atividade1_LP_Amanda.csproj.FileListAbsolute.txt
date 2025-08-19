@@ -1,0 +1,8 @@
+C:\Users\User\Desktop\FATEC\3° Semestre\Linguagem-de-Programacao-Amanda-Fatec-main\Atividades\15.08.2025\Atividade1_LP_Amanda\bin\Debug\Atividade1_LP_Amanda.exe.config
+C:\Users\User\Desktop\FATEC\3° Semestre\Linguagem-de-Programacao-Amanda-Fatec-main\Atividades\15.08.2025\Atividade1_LP_Amanda\bin\Debug\Atividade1_LP_Amanda.exe
+C:\Users\User\Desktop\FATEC\3° Semestre\Linguagem-de-Programacao-Amanda-Fatec-main\Atividades\15.08.2025\Atividade1_LP_Amanda\bin\Debug\Atividade1_LP_Amanda.pdb
+C:\Users\User\Desktop\FATEC\3° Semestre\Linguagem-de-Programacao-Amanda-Fatec-main\Atividades\15.08.2025\Atividade1_LP_Amanda\obj\Debug\Atividade1_LP_Amanda.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\FATEC\3° Semestre\Linguagem-de-Programacao-Amanda-Fatec-main\Atividades\15.08.2025\Atividade1_LP_Amanda\obj\Debug\Atividade1_LP_Amanda.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\FATEC\3° Semestre\Linguagem-de-Programacao-Amanda-Fatec-main\Atividades\15.08.2025\Atividade1_LP_Amanda\obj\Debug\Atividade1_LP_Amanda.exe
+C:\Users\User\Desktop\FATEC\3° Semestre\Linguagem-de-Programacao-Amanda-Fatec-main\Atividades\15.08.2025\Atividade1_LP_Amanda\obj\Debug\Atividade1_LP_Amanda.pdb
+C:\Users\User\Desktop\FATEC\3° Semestre\Linguagem-de-Programacao-Amanda-Fatec-main\Atividades\15.08.2025\Atividade1_LP_Amanda\obj\Debug\Atividade1_LP_Amanda.exe.config
